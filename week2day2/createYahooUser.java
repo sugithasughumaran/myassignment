@@ -102,7 +102,7 @@ public class createYahooUser {
 			
 		}
 		
-		
+		driver.quit();		
 	}
 
 }
