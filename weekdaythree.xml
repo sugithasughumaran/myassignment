@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Suite">
+  <test thread-count="3" name="Test">
+    <classes>
+      <class name="week4.day3.reverseLetter"/>
+      <class name="week4.day3.ReverseOddWords"/>
+      <class name="week4.day3.changeOddindextoupper"/>
+      <class name="week4.day3.RemoveDuplicateWords"/>
+      <class name="week4.day3.FindMissingElement"/>
+      <class name="week4.day3.compareNumbers"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
